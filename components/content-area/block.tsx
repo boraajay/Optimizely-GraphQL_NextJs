@@ -23,6 +23,7 @@ const PackageCardsCarousel = dynamic(() => import('../block/packagesCardscarouse
 const HelpSupportBlock = dynamic(() => import('../block/HelpSupport-Block'))
 const ShowGenrePackChannels = dynamic(() => import('../block/ShowGenrePackChannels-block'))
 
+
 // Map the dynamically imported blocks
 export const blocks = {
   AvailabilityBlock,
